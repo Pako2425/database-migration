@@ -1,0 +1,1 @@
+insert into suppliers (company_name, country, join_date) values("expo-industry", "Germany", "2014");
