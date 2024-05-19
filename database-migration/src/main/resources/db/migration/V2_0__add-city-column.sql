@@ -1,0 +1,1 @@
+alter table suppliers add city varchar(50);
